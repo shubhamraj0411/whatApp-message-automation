@@ -47,3 +47,5 @@ else:
 
     time.sleep(delay_seconds)
     send_whatsApp_message(recipient_number, message_body)
+    print("thank you for using this")
+    
