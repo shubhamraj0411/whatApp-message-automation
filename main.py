@@ -1,4 +1,5 @@
 #twilio client setup
+# this is not a free bot for whatsapp automation you have to take subscription for unlimited message
 
 
 from twilio.rest import Client
